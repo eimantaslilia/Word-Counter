@@ -7,6 +7,7 @@ Examples can be found in the test ``` WordCounterServiceTest```
 How to use:
 
 * Run the application through your favorite IDE
+* I recommend to use Postman to try out the endpoints
 * An example of how to use the endpoint:
 ![Screenshot](example.jpg)
 * Port is exposed with the following endpoints:
