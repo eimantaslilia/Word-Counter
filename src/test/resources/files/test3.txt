@@ -1,0 +1,2 @@
+! zebras % Jonas @ adomas 22 16 liuksas 14 bulve % neringa 9 oras
+12 %s bulve && Zebras

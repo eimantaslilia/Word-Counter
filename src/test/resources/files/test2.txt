@@ -1,0 +1,2 @@
+%s adomas Vizija 96 moneta 21 zebras %2 henrikas neringa $2 jonas %s Uostas _-- vizija =1
+-* bulve ~ oras @ oras 65 Moneta 85 vizija 46 gandras %s neringa 99 jonas
